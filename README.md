@@ -1,4 +1,4 @@
-# CloudyGo
+# CloudyGo project
 
 Frontend for displaying
 [MiniGo](https://github.com/tensorflow/minigo),
